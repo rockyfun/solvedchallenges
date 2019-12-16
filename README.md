@@ -23,3 +23,6 @@ Every end folder (or folder leaf) has the same name of the problem.
 -Big integers "math/big"
 
 -Goroutines, channels and concurrency
+
+Some links for golang design pattern & conccurrent design:
+https://www.udemy.com/course/go-data-structures-algorithms-and-design-patterns-with-go/
